@@ -41,17 +41,71 @@ The collection is organized into the following folders:
 
 ## 🖼️ Preview
 
-A taste of what's inside — click any image to view the full-resolution file:
+Browse by category — click a sample to open the full-resolution file, or the category name to open the whole folder.
 
-<a href="Category-Catppuccin-Official/catppuccin-wall-10.jpg"><img src="Category-Catppuccin-Official/catppuccin-wall-10.jpg" width="200"></a> <a href="Category-Catppuccin-Official/catppuccin-colored-waves.png"><img src="Category-Catppuccin-Official/catppuccin-colored-waves.png" width="200"></a> <a href="Category-Mandelbrot/mandelbrot_full_flamingo.png"><img src="Category-Mandelbrot/mandelbrot_full_flamingo.png" width="200"></a> <a href="Category-Landscapes/mountain-range.jpg"><img src="Category-Landscapes/mountain-range.jpg" width="200"></a> <a href="Category-Landscapes/day-forest-path.png"><img src="Category-Landscapes/day-forest-path.png" width="200"></a>
+<div align="center">
 
-<a href="Category-Landscapes/flower-field.jpg"><img src="Category-Landscapes/flower-field.jpg" width="200"></a> <a href="Category-Nature-Flowers/sakura-aura.jpg"><img src="Category-Nature-Flowers/sakura-aura.jpg" width="200"></a> <a href="Category-Nature-Flowers/flower-branch.png"><img src="Category-Nature-Flowers/flower-branch.png" width="200"></a> <a href="Category-Space/black-hole.png"><img src="Category-Space/black-hole.png" width="200"></a> <a href="Category-Space/space-piano.png"><img src="Category-Space/space-piano.png" width="200"></a>
+<b><a href="Category-Catppuccin-Official"><big>🐱 Catppuccin Official</big></a></b> · 63 walls
 
-<a href="Category-Cats/rainbow-cat.png"><img src="Category-Cats/rainbow-cat.png" width="200"></a> <a href="Category-Cats/gradient-synth-cat.png"><img src="Category-Cats/gradient-synth-cat.png" width="200"></a> <a href="Category-Abstract-Patterns/dark-waves.jpg"><img src="Category-Abstract-Patterns/dark-waves.jpg" width="200"></a> <a href="Category-City-Urban/city-on-water.jpg"><img src="Category-City-Urban/city-on-water.jpg" width="200"></a> <a href="Category-Anime/koishi.jpg"><img src="Category-Anime/koishi.jpg" width="200"></a>
+<a href="Category-Catppuccin-Official/catppuccin-wall-10.jpg"><img src="Category-Catppuccin-Official/catppuccin-wall-10.jpg" width="200"></a> <a href="Category-Catppuccin-Official/catppuccin-colored-waves.png"><img src="Category-Catppuccin-Official/catppuccin-colored-waves.png" width="200"></a> <a href="Category-Catppuccin-Official/catppuccin-wall-circle_01.png"><img src="Category-Catppuccin-Official/catppuccin-wall-circle_01.png" width="200"></a>
 
-<a href="Category-Pixel-Art/pixel-planet.png"><img src="Category-Pixel-Art/pixel-planet.png" width="200"></a> <a href="Category-Fantasy-Games/hollow-knight.png"><img src="Category-Fantasy-Games/hollow-knight.png" width="200"></a> <a href="Category-Water-Ocean/underwater-deep.jpg"><img src="Category-Water-Ocean/underwater-deep.jpg" width="200"></a>
+<b><a href="Category-Mandelbrot"><big>🌀 Mandelbrot</big></a></b> · 38 walls
 
-> All 454 wallpapers are in the category folders listed above — browse each folder for the full set.
+<a href="Category-Mandelbrot/mandelbrot_full_flamingo.png"><img src="Category-Mandelbrot/mandelbrot_full_flamingo.png" width="200"></a> <a href="Category-Mandelbrot/mandelbrot_full_teal.png"><img src="Category-Mandelbrot/mandelbrot_full_teal.png" width="200"></a>
+
+<b><a href="Category-Landscapes"><big>🏔️ Landscapes</big></a></b> · 83 walls
+
+<a href="Category-Landscapes/mountain-range.jpg"><img src="Category-Landscapes/mountain-range.jpg" width="200"></a> <a href="Category-Landscapes/day-forest-path.png"><img src="Category-Landscapes/day-forest-path.png" width="200"></a> <a href="Category-Landscapes/cabin.png"><img src="Category-Landscapes/cabin.png" width="200"></a> <a href="Category-Landscapes/beach.jpg"><img src="Category-Landscapes/beach.jpg" width="200"></a>
+
+<b><a href="Category-Cats"><big>🐈 Cats</big></a></b> · 40 walls
+
+<a href="Category-Cats/rainbow-cat.png"><img src="Category-Cats/rainbow-cat.png" width="200"></a> <a href="Category-Cats/gradient-synth-cat.png"><img src="Category-Cats/gradient-synth-cat.png" width="200"></a> <a href="Category-Cats/cat-waves.png"><img src="Category-Cats/cat-waves.png" width="200"></a>
+
+<b><a href="Category-Fantasy-Games"><big>⚔️ Fantasy & Games</big></a></b> · 45 walls
+
+<a href="Category-Fantasy-Games/hollow-knight.png"><img src="Category-Fantasy-Games/hollow-knight.png" width="200"></a> <a href="Category-Fantasy-Games/knight-sit.png"><img src="Category-Fantasy-Games/knight-sit.png" width="200"></a> <a href="Category-Fantasy-Games/sword.jpg"><img src="Category-Fantasy-Games/sword.jpg" width="200"></a>
+
+<b><a href="Category-Nature-Flowers"><big>🌸 Nature & Flowers</big></a></b> · 33 walls
+
+<a href="Category-Nature-Flowers/sakura-aura.jpg"><img src="Category-Nature-Flowers/sakura-aura.jpg" width="200"></a> <a href="Category-Nature-Flowers/flower-branch.png"><img src="Category-Nature-Flowers/flower-branch.png" width="200"></a> <a href="Category-Nature-Flowers/flowers-1.jpg"><img src="Category-Nature-Flowers/flowers-1.jpg" width="200"></a>
+
+<b><a href="Category-Space"><big>🪐 Space</big></a></b> · 33 walls
+
+<a href="Category-Space/black-hole.png"><img src="Category-Space/black-hole.png" width="200"></a> <a href="Category-Space/space-piano.png"><img src="Category-Space/space-piano.png" width="200"></a> <a href="Category-Space/jupiter.png"><img src="Category-Space/jupiter.png" width="200"></a>
+
+<b><a href="Category-City-Urban"><big>🏙️ City & Urban</big></a></b> · 20 walls
+
+<a href="Category-City-Urban/city-on-water.jpg"><img src="Category-City-Urban/city-on-water.jpg" width="200"></a> <a href="Category-City-Urban/street-4.png"><img src="Category-City-Urban/street-4.png" width="200"></a>
+
+<b><a href="Category-Water-Ocean"><big>🌊 Water & Ocean</big></a></b> · 9 walls
+
+<a href="Category-Water-Ocean/underwater-deep.jpg"><img src="Category-Water-Ocean/underwater-deep.jpg" width="200"></a> <a href="Category-Water-Ocean/whale.jpg"><img src="Category-Water-Ocean/whale.jpg" width="200"></a>
+
+<b><a href="Category-Anime"><big>🎌 Anime</big></a></b> · 8 walls
+
+<a href="Category-Anime/koishi.jpg"><img src="Category-Anime/koishi.jpg" width="200"></a> <a href="Category-Anime/touhou-lake.jpg"><img src="Category-Anime/touhou-lake.jpg" width="200"></a>
+
+<b><a href="Category-Pixel-Art"><big>👾 Pixel Art</big></a></b> · 8 walls
+
+<a href="Category-Pixel-Art/pixel-planet.png"><img src="Category-Pixel-Art/pixel-planet.png" width="200"></a> <a href="Category-Pixel-Art/pixel-castle.png"><img src="Category-Pixel-Art/pixel-castle.png" width="200"></a>
+
+<b><a href="Category-Buildings-Architecture"><big>🏛️ Buildings & Architecture</big></a></b> · 9 walls
+
+<a href="Category-Buildings-Architecture/coffee-shop.png"><img src="Category-Buildings-Architecture/coffee-shop.png" width="200"></a> <a href="Category-Buildings-Architecture/crane.png"><img src="Category-Buildings-Architecture/crane.png" width="200"></a>
+
+<b><a href="Category-Vehicles"><big>🚗 Vehicles</big></a></b> · 9 walls
+
+<a href="Category-Vehicles/car-1.png"><img src="Category-Vehicles/car-1.png" width="200"></a> <a href="Category-Vehicles/motorbikes.png"><img src="Category-Vehicles/motorbikes.png" width="200"></a>
+
+<b><a href="Category-Abstract-Patterns"><big>🎨 Abstract & Patterns</big></a></b> · 48 walls
+
+<a href="Category-Abstract-Patterns/dark-waves.jpg"><img src="Category-Abstract-Patterns/dark-waves.jpg" width="200"></a> <a href="Category-Abstract-Patterns/rainbow.png"><img src="Category-Abstract-Patterns/rainbow.png" width="200"></a>
+
+<b><a href="Category-Miscellaneous"><big>🍵 Miscellaneous</big></a></b> · 8 walls
+
+<a href="Category-Miscellaneous/pistachio-tea.jpg"><img src="Category-Miscellaneous/pistachio-tea.jpg" width="200"></a> <a href="Category-Miscellaneous/cool.jpg"><img src="Category-Miscellaneous/cool.jpg" width="200"></a>
+
+</div>
 
 ---
 
