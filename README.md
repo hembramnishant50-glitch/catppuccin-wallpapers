@@ -39,12 +39,28 @@ The collection is organized into the following folders:
 
 ---
 
+## 🖼️ Preview
+
+A taste of what's inside — click any image to view the full-resolution file:
+
+<a href="Category-Catppuccin-Official/catppuccin-wall-10.jpg"><img src="Category-Catppuccin-Official/catppuccin-wall-10.jpg" width="200"></a> <a href="Category-Catppuccin-Official/catppuccin-colored-waves.png"><img src="Category-Catppuccin-Official/catppuccin-colored-waves.png" width="200"></a> <a href="Category-Mandelbrot/mandelbrot_full_flamingo.png"><img src="Category-Mandelbrot/mandelbrot_full_flamingo.png" width="200"></a> <a href="Category-Landscapes/mountain-range.jpg"><img src="Category-Landscapes/mountain-range.jpg" width="200"></a> <a href="Category-Landscapes/day-forest-path.png"><img src="Category-Landscapes/day-forest-path.png" width="200"></a>
+
+<a href="Category-Landscapes/flower-field.jpg"><img src="Category-Landscapes/flower-field.jpg" width="200"></a> <a href="Category-Nature-Flowers/sakura-aura.jpg"><img src="Category-Nature-Flowers/sakura-aura.jpg" width="200"></a> <a href="Category-Nature-Flowers/flower-branch.png"><img src="Category-Nature-Flowers/flower-branch.png" width="200"></a> <a href="Category-Space/black-hole.png"><img src="Category-Space/black-hole.png" width="200"></a> <a href="Category-Space/space-piano.png"><img src="Category-Space/space-piano.png" width="200"></a>
+
+<a href="Category-Cats/rainbow-cat.png"><img src="Category-Cats/rainbow-cat.png" width="200"></a> <a href="Category-Cats/gradient-synth-cat.png"><img src="Category-Cats/gradient-synth-cat.png" width="200"></a> <a href="Category-Abstract-Patterns/dark-waves.jpg"><img src="Category-Abstract-Patterns/dark-waves.jpg" width="200"></a> <a href="Category-City-Urban/city-on-water.jpg"><img src="Category-City-Urban/city-on-water.jpg" width="200"></a> <a href="Category-Anime/koishi.jpg"><img src="Category-Anime/koishi.jpg" width="200"></a>
+
+<a href="Category-Pixel-Art/pixel-planet.png"><img src="Category-Pixel-Art/pixel-planet.png" width="200"></a> <a href="Category-Fantasy-Games/hollow-knight.png"><img src="Category-Fantasy-Games/hollow-knight.png" width="200"></a> <a href="Category-Water-Ocean/underwater-deep.jpg"><img src="Category-Water-Ocean/underwater-deep.jpg" width="200"></a>
+
+> All 454 wallpapers are in the category folders listed above — browse each folder for the full set.
+
+---
+
 ## 🚀 How to use
 
 ### Clone this repository
 
 ```bash
-git clone https://github.com/<your-username>/catppuccin-wallpapers.git
+git clone https://github.com/hembramnishant50-glitch/catppuccin-wallpapers.git
 cd catppuccin-wallpapers
 ```
 
